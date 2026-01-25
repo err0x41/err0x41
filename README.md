@@ -12,7 +12,7 @@
 - **Philosophy:** Когда я что-то создаю, я уже знаю, как это будут ломать, поэтому безопасность вшита в код по дефолту.
 
 ### ⚙️ Environment
-- **OS:** Kali Linux (Terminal only, no GUI, no sudo).
+- **OS:** Kali Linux (Terminal only, no GUI).
 - **Mindset:** "If it's working, find out how to break it. If it's broken, find out how to fix it."
 
 ### 📊 Activity & Stats
