@@ -16,8 +16,13 @@
 - **Mindset:** "If it's working, find out how to break it. If it's broken, find out how to fix it."
 
 ### 📊 Activity & Stats
-![err0x41's GitHub stats](https://github-readme-stats.vercel.app/api?username=err0x41&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=err0x41&layout=compact&theme=radical&hide_border=true)
+![err0x41's GitHub stats](https://github-readme-stats.vercel.app/api?username=err0x41&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=err0x41&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+---
+### 🔗 Контакты
+[![TikTok](https://img.shields.io/badge/TikTok-err__0x41-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@err_0x41)
 
 ---
 *Stay curious. Stay anonymous.*
