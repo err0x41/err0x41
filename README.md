@@ -16,9 +16,9 @@
 - **Mindset:** "If it's working, find out how to break it. If it's broken, find out how to fix it."
 
 ### 📊 Activity & Stats
-![err0x41's GitHub stats](https://github-readme-stats.vercel.app/api?username=err0x41&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![err0x41's GitHub stats](https://github-readme-stats.vercel.app/api?username=err0x41&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=err0x41&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=err0x41&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800)
 
 ---
 ### 🔗 Контакты
